@@ -1,0 +1,9 @@
+[submodule "commodyne-module"]
+	path = commodyne-module
+	url = git@github.com:rektide/commodyne-module
+[submodule "commodyne-mojo"]
+	path = commodyne-mojo
+	url = git@github.com:rektide/commodyne-mojo
+[submodule "commodyne-vfs"]
+	path = commodyne-vfs
+	url = git@github.com:rektide/commodyne-vfs
