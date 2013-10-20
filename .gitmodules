@@ -7,3 +7,6 @@
 [submodule "commodyne-vfs"]
 	path = commodyne-vfs
 	url = https://github.com/rektide/commodyne-vfs
+[submodule "commodyne-runtime"]
+	path = commodyne-runtime
+	url = https://github.com/rektide/commodyne-runtime
