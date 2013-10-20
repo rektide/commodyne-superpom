@@ -16,6 +16,7 @@
 		<module>commodyne-module</module>
 		<module>commodyne-vfs</module>
 		<module>commodyne-mojo</module>
+		<module>commodyne-runtime</module>
 	</modules>
 	<build>
 		<pluginManagement>
